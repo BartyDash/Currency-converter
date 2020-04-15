@@ -113,7 +113,7 @@ namespace KursWalut
             }
             decimal kwotaDec = decimal.Parse(tablicaPozycja[wybor - 1, 3]);
             decimal przelicznikDec = decimal.Parse(tablicaPozycja[wybor - 1, 1]);
-            Console.WriteLine("\n" + kwota + " " + nazwa + " ====> " + kwotaDec * kwota / przelicznikDec+ " PLN");
+            Console.WriteLine("\n" + kwota + " " + tablicaPozycja[wybor - 1, 2] + " ====> " + kwotaDec * kwota / przelicznikDec+ " PLN");
 
             Console.WriteLine("\nNaciśnij 'n' i Enter by zamknąć aplikację, lub dowolny inny klawisz i Enter by kontynuować:");
             if (Console.ReadLine() == "n")
