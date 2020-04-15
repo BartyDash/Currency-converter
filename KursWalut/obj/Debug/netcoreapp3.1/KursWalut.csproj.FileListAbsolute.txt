@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\KursWalut\KursWalut\bin\Debug\netcoreapp3.1\KursWalut.exe
+C:\Users\USER\source\repos\KursWalut\KursWalut\bin\Debug\netcoreapp3.1\KursWalut.deps.json
+C:\Users\USER\source\repos\KursWalut\KursWalut\bin\Debug\netcoreapp3.1\KursWalut.runtimeconfig.json
+C:\Users\USER\source\repos\KursWalut\KursWalut\bin\Debug\netcoreapp3.1\KursWalut.runtimeconfig.dev.json
+C:\Users\USER\source\repos\KursWalut\KursWalut\bin\Debug\netcoreapp3.1\KursWalut.dll
+C:\Users\USER\source\repos\KursWalut\KursWalut\bin\Debug\netcoreapp3.1\KursWalut.pdb
+C:\Users\USER\source\repos\KursWalut\KursWalut\obj\Debug\netcoreapp3.1\KursWalut.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\KursWalut\KursWalut\obj\Debug\netcoreapp3.1\KursWalut.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\KursWalut\KursWalut\obj\Debug\netcoreapp3.1\KursWalut.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\KursWalut\KursWalut\obj\Debug\netcoreapp3.1\KursWalut.AssemblyInfo.cs
+C:\Users\USER\source\repos\KursWalut\KursWalut\obj\Debug\netcoreapp3.1\KursWalut.dll
+C:\Users\USER\source\repos\KursWalut\KursWalut\obj\Debug\netcoreapp3.1\KursWalut.pdb
+C:\Users\USER\source\repos\KursWalut\KursWalut\obj\Debug\netcoreapp3.1\KursWalut.genruntimeconfig.cache
